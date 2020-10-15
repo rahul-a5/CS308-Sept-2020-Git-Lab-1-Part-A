@@ -20,6 +20,7 @@ int main(int argc, char* argv[]) {
 	printf("Sqrt of %d is %fi\n",input,sqrt(-1*input));
 	}
 	printf("End of program. Exiting\n");
+	printf("Bye\n");
 	return(0);
 
 } // end main
